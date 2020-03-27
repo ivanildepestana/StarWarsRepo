@@ -3,5 +3,5 @@
 este repositorio serve de exemplo para o curso de Git
 
 
-![../home/ivanilde/gatos.png](Gat)
+![/home/ivanilde/gatos.png](Gat)
 
